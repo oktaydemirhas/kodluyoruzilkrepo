@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-**[Patika.dev](https://app.patika.dev/)**
+**[Patika.dev](https://patika.dev/)**
