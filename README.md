@@ -9,7 +9,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 
-`git clone https://https://github.com/BurakAkkavuk/kodluyoruzilkrepo.git`
+`
+git clone https://https://github.com/BurakAkkavuk/kodluyoruzilkrepo.git
+`
 
 
 ## Usage
